@@ -9,6 +9,7 @@
 <table border="1" width="500">
 <tbody>
 <tr height="200">
+    </center>
     <center>
 <td>
 <h2> UTS Sister Anisa Rosalina </h2>
