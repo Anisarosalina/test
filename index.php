@@ -5,13 +5,11 @@
         color: #C1C3C6
       }
     </style>
+<center>
 <table border="1" width="500">
- <thead>
-   </thead>
  <tbody>
  <tr height="200">
  <td>
- <center>
 <h2> UTS Sister Anisa Rosalina </h2>
 <br>
 <h4>Upload Zip lalu klik upload</h4>
