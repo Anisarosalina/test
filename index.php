@@ -7,9 +7,10 @@
     </style>
 <center>
 <table border="1" width="500">
- <tbody>
- <tr height="200">
- <td>
+<tbody>
+<tr height="200">
+    <center>
+<td>
 <h2> UTS Sister Anisa Rosalina </h2>
 <br>
 <h4>Upload Zip lalu klik upload</h4>
