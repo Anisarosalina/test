@@ -1,8 +1,6 @@
 <script type="text/javascript"></script>
     <style>
       body {
-        padding-top: 40px;
-        padding-bottom: 40px;
         background-color: #303641;
         color: #C1C3C6
       }
