@@ -11,7 +11,7 @@
 <tr height="200"> 
 <td>
     </center>
-<h2> UTS Sister Anisa Rosalina </h2>
+   <center> <h2> UTS Sister Anisa Rosalina </h2> <center>
 <br>
 <h4>Upload Zip lalu klik upload</h4>
 <form method='post' action='' name='koneksi' enctype='multipart/form-data'>
