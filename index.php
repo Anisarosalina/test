@@ -7,6 +7,15 @@
         color: #C1C3C6
       }
     </style>
+<table border="1" width="500">
+ <thead>
+  <tr>
+   <th colspan="3" height="100">header</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr height="200">
+      <td>lorem</td>
 <h2> UTS Sister Anisa Rosalina </h2>
 <br>
 <center>
