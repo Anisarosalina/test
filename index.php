@@ -7,13 +7,10 @@
     </style>
 <table border="1" width="500">
  <thead>
-  <tr>
-   <th colspan="3" height="100">header</th>
-  </tr>
- </thead>
+   </thead>
  <tbody>
   <tr height="200">
-      <td>lorem</td>
+      <td>
 <h2> UTS Sister Anisa Rosalina </h2>
 <br>
 <center>
@@ -76,3 +73,4 @@ foreach ( $stack as $t ) {
 }
 
 ?>
+</td>
